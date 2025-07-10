@@ -58,6 +58,9 @@ How do daily and weekly sales trends look over time?
 
 What is the average bill per customer?
 
+Which store location has the highest revenue?
+
+
 ✏️ Author
 
 Rohan Singh – https://www.linkedin.com/in/rohan-singh21/|
