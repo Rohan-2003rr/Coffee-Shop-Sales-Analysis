@@ -27,11 +27,11 @@ Dataset Used - https://github.com/Rohan-2003rr/Coffee-Shop-Sales-Analysis/blob/m
 
 Interactive dashboard showing:
 
-*Total sales over time (daily, weekly, and monthly trends)
+*Total sales over time (daily, weekly, and monthly trends).
 
-*Average sales per hour to identify peak business hours
+*Average sales per hour to identify peak business hours.
 
-*Best-selling product categories and items
+*Best-selling product categories and items.
 
 *Sales performance by store location.
 
