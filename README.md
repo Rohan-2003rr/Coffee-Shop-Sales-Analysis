@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Sales Analysis
 An Excel-based data analytics project analyzing coffee shop sales trends, customer behavior, and revenue patterns to deliver actionable insights for business decision making.
 
-Dataset Used - 
+Dataset Used - https://github.com/Rohan-2003rr/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx
 
 ✅ Project Overview
 
