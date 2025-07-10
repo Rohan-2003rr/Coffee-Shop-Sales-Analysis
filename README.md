@@ -49,6 +49,7 @@ Clear visuals to track KPIs like:
 
 
 🔍 Key Questions Answered
+
 What are the peak hours for sales?
 
 Which product categories contribute the most to revenue?
@@ -57,6 +58,9 @@ How do daily and weekly sales trends look over time?
 
 What is the average bill per customer?
 
+✏️ Author
+
+Rohan Singh – https://www.linkedin.com/in/rohan-singh21/|
 
 
 
